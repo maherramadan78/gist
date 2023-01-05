@@ -6,16 +6,4 @@ const greet = (message, name) => {
   greet('Hola', 'Antonio');
   greet('Ciao', 'Luigi')
   
-  .greetings {
-    font-family: Arial, sans-serif;
-    font-size: 1.5rem;
-  }
-  
-  .greetings.english {
-    background-color: #000;
-    color: #FFF;
-  }
-  .greetings.spanish {
-    background-color: #FFF;
-    color: #000;
-  }
+ 

@@ -14,3 +14,17 @@
     font-size: 1rem;
     color: #009933;
   }
+
+  .greetings {
+    font-family: Arial, sans-serif;
+    font-size: 1.5rem;
+  }
+  
+  .greetings.english {
+    background-color: #000;
+    color: #FFF;
+  }
+  .greetings.spanish {
+    background-color: #FFF;
+    color: #000;
+  }
